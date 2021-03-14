@@ -1,0 +1,17 @@
+--- file1.txt	2021-03-14 20:53:22.732320700 +0500
++++ file2.txt	2021-03-14 20:58:28.270638200 +0500
+@@ -1,6 +1,7 @@
+-Hello World 
+-Names of fruit
+-Orange 
+-Mango
+-Banana
+-
++Hello World
++Name of fruit
++Orange 
++Mango 
++Banana
++Strawberry
++Apple
+\ No newline at end of file
